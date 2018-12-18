@@ -5,7 +5,7 @@ def swap(c,d):
     d=temp
     a=c
     b=d
-a=1
-b=2
+a=6
+b=7
 swap(a,b)
 print(str(a),str(b),sep=' & ')
