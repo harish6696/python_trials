@@ -6,4 +6,4 @@ if name=='harish':
 elif name=='aditya':
     print('welcome CO-ADMIN')
 else:
-    print('Get-lost, Only ADMINS allowed')
+    print('PLease Get-lost, Only ADMINS allowed')
