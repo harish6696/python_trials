@@ -2,7 +2,7 @@
 
 def cats(num):
     try:
-        if int(num)>10:
+        if int(num)>100:
             print("That is a lot of cats")
         else:
             print('You do not have that many cats')
