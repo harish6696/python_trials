@@ -7,7 +7,7 @@ def cats(num):
         else:
             print('You do not have that many cats')
     except: 
-        print("There is some error, I don't know what it is")
+        print("There is some error, I don't know what it is, I am just a machine")
 
 print('Enter number of cats')
 no=input()

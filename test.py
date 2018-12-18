@@ -5,5 +5,5 @@ name=input()
 print('hello '+name)
 print('what is your age')
 age=input()
-print('You will be ' +str(int(age)+11)+ ' after 11 years')
+print('You will be ' +str(int(age)+1)+ ' after a year')
 
